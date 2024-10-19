@@ -10,6 +10,8 @@
 - [BelkaCTF #4: Kidnapper Case](https://belkasoft.com/ctf_march_2022/)
 - [BelkaCTF #5: Party Girl—MISSING](https://belkasoft.com/ctf_july_2022/)
 - [BelkaCTF #6: Bogus Bill](https://belkasoft.com/belkactf6/info)
+- [Brokenbit: Colonel Ma](https://brokenbit.io/colonel-ma/)
+- [Brokenbit: The Harv](https://brokenbit.io/the-harv/)
 
 ## Linux
 - [DFIR Madness - THE CASE OF THE FORGOTTEN HONEYPOT](https://dfirmadness.com/case-002-tyler-hudaks-honeypot/)
