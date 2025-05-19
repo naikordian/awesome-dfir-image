@@ -12,6 +12,7 @@
 - [BelkaCTF #6: Bogus Bill](https://belkasoft.com/belkactf6/info)
 - [Brokenbit: Colonel Ma](https://brokenbit.io/colonel-ma/)
 - [Brokenbit: The Harv](https://brokenbit.io/the-harv/)
+- [The DFIR Report: DFIR-Artifacts](https://github.com/The-DFIR-Report/DFIR-Artifacts)
 
 ## Linux
 - [DFIR Madness - THE CASE OF THE FORGOTTEN HONEYPOT](https://dfirmadness.com/case-002-tyler-hudaks-honeypot/)
